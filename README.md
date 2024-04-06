@@ -1,2 +1,2 @@
 # WCBYE
-Браслет + Android приложение помогающее слепым и слабовидящим людям в повседневной жизни
+Bracelet + Android app to help blind and visually impaired people in everyday life
